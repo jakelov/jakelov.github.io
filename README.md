@@ -1,10 +1,5 @@
 # Jugs Problem Program
 
-
-
-[TOC]
-
-
 ### <u>**Introduction**</u> 
 
 This program solves the famous Jug problem.
